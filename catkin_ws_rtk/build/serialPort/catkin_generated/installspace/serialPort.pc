@@ -1,0 +1,8 @@
+prefix=/home/zhaom/catkin_ws_rtk/install
+
+Name: serialPort
+Description: Description of serialPort
+Version: 0.0.0
+Cflags: -I/home/zhaom/catkin_ws_rtk/install/include
+Libs: -L/home/zhaom/catkin_ws_rtk/install/lib 
+Requires: roscpp serial std_msgs message_runtime

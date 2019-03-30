@@ -1,0 +1,2 @@
+serialPort
+-DCATKIN_DEVEL_PREFIX=/home/zhaom/catkin_ws_rtk/devel -DCMAKE_INSTALL_PREFIX=/home/zhaom/catkin_ws_rtk/install -G Unix Makefiles
